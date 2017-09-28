@@ -1,5 +1,10 @@
 {
   "versions": [{
+    "versiontype": "first_edition",
+    "title": "The Verb in Nyakyusa ",
+    "authors": [{"name": "Bastian Persohn"}],
+    "publishedAt": "2017-09-28T00:00:33.000Z"
+  }{
     "versiontype": "proofreading",
     "title": "The Verb in Nyakyusa ",
     "authors": [{"name": "Bastian Persohn"}],
